@@ -8,7 +8,7 @@
 
 ---
 
-### About me
+### 👩‍💻 About me
 - University of Sydney — **Data Science & Business Analytics**  
 - Career goal: **Full-stack Data Scientist**  
   - **Data →** quantify the problem, surface signals, test hypotheses  
