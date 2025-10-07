@@ -20,16 +20,7 @@ On my website you can **draw on a canvas** and **contact me directly**:
 
 ---
 
-### 🪐 Five Planets
-- **Learning** — coursework & self-study that build fundamentals  
-- **Data** — analysis / modeling / visualization that tell clear stories  
-- **Business** — from insight to strategy so decisions stick  
-- **Product** — prototypes to product experiences that deliver value  
-- **Nebula** — beyond the core: volunteering, events, talks, and notes
-
----
-
-### 📓 Lyra Notebook
+### 📓 Lyra‘s Notebook
 _Coming soon_ (I’ll add the link here when it’s live.)
 
 ---
