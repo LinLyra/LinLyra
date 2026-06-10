@@ -1,4 +1,4 @@
-<h1 align="center">Lyra Lin</h1>
+<h1 align="center">Lyra LIN</h1>
 
 <p align="center">
   <a href="https://LinLyra.github.io" target="_blank">
