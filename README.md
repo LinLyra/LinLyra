@@ -43,6 +43,7 @@ An evolving collection of things I've built, researched, and experimented with.
 📦 **[Supply Chain Optimisation](https://github.com/LinLyra/2025-Datathon)** — Logistics analytics and multi-objective optimisation.
 
 🏀 **[NBA Draft Intelligence](https://github.com/LinLyra/nba-draft-intelligence-2026)** — Interactive basketball prospect analytics. [Live Demo](https://nba-draft-intelligence-2026.vercel.app/)
+
    **[Basketball Range Intelligence](https://github.com/LinLyra/basketball-range-intelligence)** — Basketball-focused computational research. [Live Demo](https://basketball-range-intelligence.vercel.app/)
 
 🔬 **[Brownlow Information Reform](https://github.com/LinLyra/brownlow-information-reform)** — Research on information availability and human evaluation.
