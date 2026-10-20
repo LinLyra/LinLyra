@@ -1,4 +1,4 @@
-<img width="1294" height="682" alt="image" src="https://github.com/user-attachments/assets/28c8d2b8-e57c-4f5a-b8a1-931c69da96a3" /># Lyra LIN
+# Lyra LIN
 
 **Data Science · Intelligent Systems · Physical AI**
 
