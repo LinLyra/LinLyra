@@ -1,4 +1,4 @@
-# Lyra LIN
+<img width="1294" height="682" alt="image" src="https://github.com/user-attachments/assets/28c8d2b8-e57c-4f5a-b8a1-931c69da96a3" /># Lyra LIN
 
 **Data Science · Intelligent Systems · Physical AI**
 
@@ -59,6 +59,7 @@ An evolving collection of things I've built, researched, and experimented with.
 👰 **[Taylor Engagement Analysis](https://github.com/LinLyra/taylor-engagement-analysis)** — Audience engagement analytics.
 
 🎬 **[Short Drama Text Analysis](https://github.com/LinLyra/Short-Drama-Text-Analysis)** — NLP and text analytics.
+
 
 ---
 
