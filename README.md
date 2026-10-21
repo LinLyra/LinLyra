@@ -16,7 +16,7 @@ An evolving collection of systems, research studies, and experiments I have buil
 
 🐺 **[LYKON](https://github.com/LinLyra/Lykon)** — A wearable Physical AI concept exploring embodied sensing and human-centred sports intelligence.
 
-💍 **[ZILO Smart Ring](https://github.com/LinLyra/Zilo-Ring)** — A compact IMU research testbed for motion recognition, sensor placement, and cross-session robustness.
+💍 **ZILO Smart Ring** — A compact IMU research testbed for motion recognition, sensor placement, and cross-session robustness.
 
 🏀 **[Basketball Range Intelligence](https://github.com/LinLyra/basketball-range-intelligence)** — Interactive NBA shot-location research across 902 players and 4,126 qualified player-seasons. **[Live Demo](https://basketball-range-intelligence.vercel.app/)**
 
