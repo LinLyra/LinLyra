@@ -16,9 +16,7 @@ An evolving collection of systems, research studies, and experiments I have buil
 
 🐺 **[LYKON](https://github.com/LinLyra/Lykon)** — A wearable Physical AI concept exploring embodied sensing and human-centred sports intelligence.
 
-💍 **ZILO Smart Ring** — A compact IMU research testbed for motion recognition, sensor placement, and cross-session robustness.
-
-🏀 **[Basketball Range Intelligence](https://github.com/LinLyra/basketball-range-intelligence)** — Interactive NBA shot-location research across 902 players and 4,126 qualified player-seasons. **[Live Demo](https://basketball-range-intelligence.vercel.app/)**
+⛹️ **[Basketball Range Intelligence](https://github.com/LinLyra/basketball-range-intelligence)** — Interactive NBA shot-location research across 902 players and 4,126 qualified player-seasons. **[Live Demo](https://basketball-range-intelligence.vercel.app/)**
 
 🧠 **[Football Director OS](https://github.com/LinLyra/Football-Director-OS)** — A natural-language football event monitor with deterministic temporal rules, auditable evidence, and audience-aware explanations. **[Live Demo](https://football-director-os.vercel.app/)**
 
@@ -39,13 +37,6 @@ An evolving collection of systems, research studies, and experiments I have buil
 📺 **[YouTube Posting Time Impact](https://github.com/LinLyra/YouTube-Posting-Time-Impact)** — Content-performance analysis focused on the relationship between posting time and engagement.
 
 🎬 **[Short Drama Text Analysis](https://github.com/LinLyra/Short-Drama-Text-Analysis)** — NLP and text analysis for short-form drama content.
-
-## How I work
-
-- **Build the evidence first** — inspect data quality, assumptions, leakage, and measurement limits.
-- **Make models testable** — use temporal validation, baselines, uncertainty, and explicit evaluation criteria.
-- **Carry research into systems** — connect analysis to interfaces, workflows, and decisions people can actually use.
-- **Separate results from direction** — label active research, reproductions, and completed systems honestly.
 
 ---
 
