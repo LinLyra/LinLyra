@@ -10,25 +10,35 @@ My current research direction is **reliable multimodal spatiotemporal intelligen
 
 ---
 
-## Selected work
+## 🧪 Projects & Experiments
 
-| Project | What I built |
-| --- | --- |
-| [Football Director OS](https://github.com/LinLyra/Football-Director-OS) · [Live](https://football-director-os.vercel.app/) | A natural-language football event monitor with deterministic temporal rules, auditable evidence, and audience-aware explanations. |
-| [Basketball Range Intelligence](https://github.com/LinLyra/basketball-range-intelligence) · [Live](https://basketball-range-intelligence.vercel.app/) | An interactive spatial analysis platform for comparing how NBA shooting range and efficiency evolve across seasons. |
-| [LYKON](https://github.com/LinLyra/Lykon) | A wearable Physical AI concept exploring embodied sensing and human-centred sports intelligence. |
-| [Brownlow Information Reform](https://github.com/LinLyra/brownlow-information-reform) | A prospective research design examining how newly supplied performance information may affect human evaluation. |
-| [FIFA World Cup Forecasting](https://github.com/LinLyra/fifa-world-cup-2026-prediction-system) · [Live](https://fifa-world-cup-2026-prediction-syst.vercel.app/) | A probabilistic tournament engine combining Elo, Poisson, Dixon–Coles modelling, backtesting, and simulation. |
-| [Supply Chain Optimisation](https://github.com/LinLyra/2025-Datathon) | A multi-objective operations-research project translating supply-chain evidence into allocation decisions. |
+An evolving collection of systems, research studies, and experiments I have built. The icons are intentional: each project keeps its own domain and identity rather than being forced into a category.
 
-## More public experiments
+🐺 **[LYKON](https://github.com/LinLyra/Lykon)** — A wearable Physical AI concept exploring embodied sensing and human-centred sports intelligence.
 
-[Brownlow Intelligence](https://github.com/LinLyra/Brownlow-Intelligence-2026) ·
-[NBA Draft Intelligence](https://github.com/LinLyra/nba-draft-intelligence-2026) ·
-[OpenKPL Forecast](https://github.com/LinLyra/2026-OpenKPL-Forecast) ·
-[Xuetu](https://github.com/LinLyra/Xuetu) ·
-[YouTube Posting Time Impact](https://github.com/LinLyra/YouTube-Posting-Time-Impact) ·
-[Short Drama Text Analysis](https://github.com/LinLyra/Short-Drama-Text-Analysis)
+💍 **[ZILO Smart Ring](https://github.com/LinLyra/Zilo-Ring)** — A compact IMU research testbed for motion recognition, sensor placement, and cross-session robustness.
+
+🏀 **[Basketball Range Intelligence](https://github.com/LinLyra/basketball-range-intelligence)** — Interactive NBA shot-location research across 902 players and 4,126 qualified player-seasons. **[Live Demo](https://basketball-range-intelligence.vercel.app/)**
+
+🧠 **[Football Director OS](https://github.com/LinLyra/Football-Director-OS)** — A natural-language football event monitor with deterministic temporal rules, auditable evidence, and audience-aware explanations. **[Live Demo](https://football-director-os.vercel.app/)**
+
+🔬 **[Brownlow Information Reform](https://github.com/LinLyra/brownlow-information-reform)** — A prospective research design examining how newly supplied performance information may affect human evaluation.
+
+🏉 **[Brownlow Intelligence](https://github.com/LinLyra/Brownlow-Intelligence-2026)** — An expected-vote system for AFL player performance and Brownlow Medal forecasting. **[Live Demo](https://brownlow-intelligence.vercel.app/)**
+
+🏀 **[NBA Draft Intelligence](https://github.com/LinLyra/nba-draft-intelligence-2026)** — Probabilistic prospect evaluation, team-fit modelling, and Monte Carlo draft simulation. **[Live Demo](https://nba-draft-intelligence-2026.vercel.app/)**
+
+⚽ **[FIFA World Cup Forecasting](https://github.com/LinLyra/fifa-world-cup-2026-prediction-system)** — Elo, Poisson, Dixon–Coles modelling, backtesting, and full-tournament simulation. **[Live Demo](https://fifa-world-cup-2026-prediction-syst.vercel.app/)**
+
+🎮 **[OpenKPL Forecast](https://github.com/LinLyra/2026-OpenKPL-Forecast)** — Leakage-safe esports team-strength modelling and Monte Carlo tournament forecasts. **[Live Demo](https://2026-open-kpl-forecast.vercel.app/en)**
+
+📦 **[Supply Chain Optimisation](https://github.com/LinLyra/2025-Datathon)** — Logistics analytics and multi-objective allocation optimisation.
+
+🗺️ **[Xuetu](https://github.com/LinLyra/Xuetu)** — A map-first local learning and tutoring product exploring location, trust, and offline coordination.
+
+📺 **[YouTube Posting Time Impact](https://github.com/LinLyra/YouTube-Posting-Time-Impact)** — Content-performance analysis focused on the relationship between posting time and engagement.
+
+🎬 **[Short Drama Text Analysis](https://github.com/LinLyra/Short-Drama-Text-Analysis)** — NLP and text analysis for short-form drama content.
 
 ## How I work
 
