@@ -10,7 +10,7 @@ My current research direction is **reliable multimodal spatiotemporal intelligen
 
 ---
 
-## 🧪 Projects & Experiments
+## 🧪 Selected Projects
 
 An evolving collection of systems, research studies, and experiments I have built. The icons are intentional: each project keeps its own domain and identity rather than being forced into a category.
 
@@ -34,9 +34,6 @@ An evolving collection of systems, research studies, and experiments I have buil
 
 🗺️ **[Xuetu](https://github.com/LinLyra/Xuetu)** — A map-first local learning and tutoring product exploring location, trust, and offline coordination.
 
-📺 **[YouTube Posting Time Impact](https://github.com/LinLyra/YouTube-Posting-Time-Impact)** — Content-performance analysis focused on the relationship between posting time and engagement.
-
-🎬 **[Short Drama Text Analysis](https://github.com/LinLyra/Short-Drama-Text-Analysis)** — NLP and text analysis for short-form drama content.
 
 ---
 
