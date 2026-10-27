@@ -32,9 +32,6 @@ An evolving collection of systems, research studies, and experiments I have buil
 
 📦 **[Supply Chain Optimisation](https://github.com/LinLyra/2025-Datathon)** — Logistics analytics and multi-objective allocation optimisation.
 
-🗺️ **[Xuetu](https://github.com/LinLyra/Xuetu)** — A map-first local learning and tutoring product exploring location, trust, and offline coordination.
-
-
 ---
 
 I'm especially interested in research collaborations around multimodal sensing, human movement, event understanding, and reliable real-world AI.
