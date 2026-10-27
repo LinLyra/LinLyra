@@ -14,8 +14,6 @@ My current research direction is **reliable multimodal spatiotemporal intelligen
 
 An evolving collection of systems, research studies, and experiments I have built. The icons are intentional: each project keeps its own domain and identity rather than being forced into a category.
 
-🐺 **[LYKON](https://github.com/LinLyra/Lykon)** — A wearable Physical AI concept exploring embodied sensing and human-centred sports intelligence.
-
 ⛹️ **[Basketball Range Intelligence](https://github.com/LinLyra/basketball-range-intelligence)** — Interactive NBA shot-location research across 902 players and 4,126 qualified player-seasons. **[Live Demo](https://basketball-range-intelligence.vercel.app/)**
 
 🧠 **[Football Director OS](https://github.com/LinLyra/Football-Director-OS)** — A natural-language football event monitor with deterministic temporal rules, auditable evidence, and audience-aware explanations. **[Live Demo](https://football-director-os.vercel.app/)**
