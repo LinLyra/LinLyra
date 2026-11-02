@@ -2,9 +2,7 @@
 
 **Data Science · Multimodal Sensing · Spatiotemporal Intelligence**
 
-I'm a Data Science and Business Analytics undergraduate at the University of Sydney. I build research prototypes and analytical systems that connect physical signals, trajectories and event data with reliable models and usable software.
-
-My current direction is **reliable multimodal spatiotemporal intelligence** for human movement and event understanding. I use sport as a demanding real-world testbed while developing transferable skills in sensing, computer vision, tracking, evaluation and system engineering.
+I'm a Data Science and Business Analytics undergraduate at the University of Sydney. I build research prototypes and analytical systems that connect physical signals, trajectories and event data with reliable models and usable software. My current direction is **reliable multimodal spatiotemporal intelligence** for human movement and event understanding.
 
 [🌌 Portfolio](https://linlyra.github.io/) · [🔬 Motion Intelligence Lab](https://linlyra.github.io/sports/) · [📂 Repositories](https://github.com/LinLyra?tab=repositories)
 
@@ -29,17 +27,13 @@ A BLE and IMU interaction platform connecting ring gestures to a FastAPI perform
 
 ---
 
-## Applied Systems
+## Selected Repo
 
 - 🧠 **[Football Director OS](https://github.com/LinLyra/Football-Director-OS)** — Natural-language football event monitoring with deterministic temporal rules, auditable evidence and audience-aware explanations. [Live demo](https://football-director-os.vercel.app/)
 - 🎮 **[OpenKPL Forecast](https://github.com/LinLyra/2026-OpenKPL-Forecast)** — Leakage-safe team-strength modelling, backtesting and Monte Carlo tournament simulation. [Live demo](https://2026-open-kpl-forecast.vercel.app/en)
 - ⚽ **[FIFA World Cup Forecasting](https://github.com/LinLyra/fifa-world-cup-2026-prediction-system)** — Elo, Poisson and Dixon–Coles forecasting with full-tournament simulation. [Live demo](https://fifa-world-cup-2026-prediction-syst.vercel.app/)
 - 🏀 **[NBA Draft Intelligence](https://github.com/LinLyra/nba-draft-intelligence-2026)** — Probabilistic prospect evaluation, team-fit modelling and draft simulation. [Live demo](https://nba-draft-intelligence-2026.vercel.app/)
-- 📦 **[Supply Chain Optimisation](https://github.com/LinLyra/2025-Datathon)** — Multi-objective allocation and logistics decision modelling.
-
-### Exploratory visualisation
-
-**[Basketball Range Intelligence](https://github.com/LinLyra/basketball-range-intelligence)** is an interactive exploration of NBA shooting range and efficiency across seasons. [Live demo](https://basketball-range-intelligence.vercel.app/)
+- ⛹️ **[Basketball Range Intelligence](https://github.com/LinLyra/basketball-range-intelligence)** is an interactive exploration of NBA shooting range and efficiency across seasons. [Live demo](https://basketball-range-intelligence.vercel.app/)
 
 ---
 
