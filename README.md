@@ -10,6 +10,9 @@ I'm a Data Science and Business Analytics undergraduate at the University of Syd
 
 ## Research & Engineering
 
+### [Shortcut-aware UWB Fall Localization](https://github.com/LinLyra/uwb-fall-localization)
+A three-radar temporal-localization study that reproduces an ABC 2027 baseline, tests tree and temporal models under subject-disjoint evaluation, and audits whether performance comes from fall dynamics or synthetic-stream shortcuts.
+
 ### [SynthShift](https://github.com/LinLyra/synthshift)
 A confirmatory study of whether calibrated synthetic IMU shifts predict real cross-device model failures. The repository includes subject-disjoint evaluation, controlled shift generation, fold-level uncertainty and explicit claim boundaries.
 
@@ -22,13 +25,11 @@ A reproducible football-tracking study testing whether defender geometry reduces
 ### [Beyond the Snapshot](https://github.com/LinLyra/skillcorner-basketball-analytics)
 A temporal basketball-tracking study of defender identity, event alignment and shot-quality measurement. The analysis reports uncertainty and negative results rather than overstating a weak temporal gain.
 
-### [Music Ring](https://github.com/LinLyra/Music-Ring)
-A BLE and IMU interaction platform connecting ring gestures to a FastAPI performance session, web and mobile interfaces, local audio playback and an optional spatial display.
-
 ---
 
-## Selected Repo
+## Selected Repositories
 
+- 💍 **[Music Ring](https://github.com/LinLyra/Music-Ring)** — BLE and IMU gesture platform integrating a FastAPI performance session, web and mobile interfaces, audio playback and an optional spatial display.
 - 🧠 **[Football Director OS](https://github.com/LinLyra/Football-Director-OS)** — Natural-language football event monitoring with deterministic temporal rules, auditable evidence and audience-aware explanations. [Live demo](https://football-director-os.vercel.app/)
 - 🎮 **[OpenKPL Forecast](https://github.com/LinLyra/2026-OpenKPL-Forecast)** — Leakage-safe team-strength modelling, backtesting and Monte Carlo tournament simulation. [Live demo](https://2026-open-kpl-forecast.vercel.app/en)
 - ⚽ **[FIFA World Cup Forecasting](https://github.com/LinLyra/fifa-world-cup-2026-prediction-system)** — Elo, Poisson and Dixon–Coles forecasting with full-tournament simulation. [Live demo](https://fifa-world-cup-2026-prediction-syst.vercel.app/)
